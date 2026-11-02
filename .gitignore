@@ -1,0 +1,7 @@
+models/
+**/frames/
+**/prev/
+**/qc/
+**/audio/
+**/render_*.log
+__pycache__/
