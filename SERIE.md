@@ -77,12 +77,13 @@ Faixa de abertura do EP. 1: "MISSÃO: VIRAR STREAMER".
   - Pizza com cara continua na mesa.
 - Arquivos: `episodios/ep01/` (roteiro em `episodios/ep01/roteiro.md`).
 
-### EP. 2: a definir pela votação
-Ideias, conforme o resultado:
-- **Se SETUP venceu:** faxina épica com montagem acelerada. A pizza "foge" ou resiste. Dudu troca a cadeira e
-  organiza os cabos, mas o setup "novo" é tudo improvisado (caixa de pizza como suporte, ventilador como "câmera").
-  Os espectadores sobem um pouco, até que algo absurdo acontece.
-- **Se CABELO venceu:** ida a um barbeiro de bairro e corte desastroso (ou Dudu corta sozinho no espelho).
-  O topete rebelde resiste. Novo visual vira meme no chat.
-- Manter continuidade: fuligem/ring light quebrado, a mãe como espectadora fiel, o bot, o troféu "PARTICIPAÇÃO".
-- O novo episódio deve terminar com outra votação de duas opções.
+### EP. 2: "Operação Setup" 📝 roteiro pronto, aguardando as vozes
+- Escrito supondo que **SETUP** venceu (o dono do canal acha o resultado mais provável). Roteiro e textos
+  do ElevenLabs em `episodios/ep02/roteiro.md`. São só 2 gerações: narrador e Dudu (a mãe aparece só como texto no chat).
+- **Resumo:** orçamento de R$ 37,50, faxina (a pizza resiste e vai para o lixo, aparece um objeto não identificado),
+  cabos, calço de caixa de pizza na cadeira, meia no microfone, ring light consertado com fita. Live com 3 espectadores
+  (mãe, bot e o novo **xX_Desconhecido_Xx**: "o setup ficou bom. Pena o streamer"). O calço cede, o Dudu cai e o clipe viraliza.
+- **Novidade no HUD:** contador ORÇAMENTO (R$ 37,50 → R$ 0,50).
+- **Estado no fim:** ESPECTADORES 48 · FAMA 5% · quarto limpo · pizza no lixo · fuligem continua.
+- **Votação:** **CABELO** (cortar o cabelo) **ou PIADAS** (aprender a ser engraçado).
+- Se CABELO vencer o EP. 1, escrever outro EP. 2 e guardar este para depois.
