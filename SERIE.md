@@ -62,6 +62,18 @@ Faixa de abertura do EP. 1: "MISSÃO: VIRAR STREAMER".
 5. **Otimismo cego (55–58 s):** Dudu fala o bordão, a batida volta.
 6. **Votação (últimos 10–12 s):** duas opções, "comenta uma palavra", "a mais votada vira o episódio N+1".
 
+## Plano da temporada 1 (10 episódios)
+| Episódios | Fase | Ideia |
+|---|---|---|
+| 1–3 | O fundo do poço | Setup, cabelo e humor (os votos do público) |
+| 4–6 | A evolução | Rotina, conteúdo, primeira parceria, primeiro hater de verdade |
+| 7–8 | A queda | Polêmica, clipe vergonhoso ou o setup pega fogo, e ele quase desiste |
+| 9 | A volta | Os espectadores fiéis (a mãe, o desconhecido) o puxam de volta |
+| 10 | Final | Chegar a 1.000 espectadores ao vivo, ou live com um streamer famoso (fictício). O público vota o final |
+
+Métricas para decidir a temporada 2: comentários por vídeo, retenção até a tela da votação e seguidores por episódio.
+Se cair muito por volta do EP. 5, dá para fechar no EP. 6 ou 7 sem parecer interrompido.
+
 ---
 
 ## Diário de episódios
@@ -77,7 +89,7 @@ Faixa de abertura do EP. 1: "MISSÃO: VIRAR STREAMER".
   - Pizza com cara continua na mesa.
 - Arquivos: `episodios/ep01/` (roteiro em `episodios/ep01/roteiro.md`).
 
-### EP. 2: "Operação Setup" 📝 roteiro pronto, aguardando as vozes
+### EP. 2: "Operação Setup" 🎬 animado; aguardando as vozes do ElevenLabs para a versão final
 - Escrito supondo que **SETUP** venceu (o dono do canal acha o resultado mais provável). Roteiro e textos
   do ElevenLabs em `episodios/ep02/roteiro.md`. São só 2 gerações: narrador e Dudu (a mãe aparece só como texto no chat).
 - **Resumo:** orçamento de R$ 37,50, faxina (a pizza resiste e vai para o lixo, aparece um objeto não identificado),
@@ -86,4 +98,7 @@ Faixa de abertura do EP. 1: "MISSÃO: VIRAR STREAMER".
 - **Novidade no HUD:** contador ORÇAMENTO (R$ 37,50 → R$ 0,50).
 - **Estado no fim:** ESPECTADORES 48 · FAMA 5% · quarto limpo · pizza no lixo · fuligem continua.
 - **Votação:** **CABELO** (cortar o cabelo) **ou PIADAS** (aprender a ser engraçado).
+- Animação pronta em `episodios/ep02/` (scene.js). Prévia gerada com voz sintética. Para a versão final, coloque
+  `ext/narrador.mp3` e `ext/dudu.mp3`, rode `ferramentas/alinhar_voz.py` com `ext/narrador.txt` e `ext/dudu.txt`
+  (voz pm_santa para o Dudu) e depois `./render_ep.sh episodios/ep02`.
 - Se CABELO vencer o EP. 1, escrever outro EP. 2 e guardar este para depois.
