@@ -89,7 +89,7 @@ Se cair muito por volta do EP. 5, dá para fechar no EP. 6 ou 7 sem parecer inte
   - Pizza com cara continua na mesa.
 - Arquivos: `episodios/ep01/` (roteiro em `episodios/ep01/roteiro.md`).
 
-### EP. 2: "Operação Setup" 🎬 animado; aguardando as vozes do ElevenLabs para a versão final
+### EP. 2: "Operação Setup" ✅ pronto (vozes do ElevenLabs, cerca de 83 s)
 - Escrito supondo que **SETUP** venceu (o dono do canal acha o resultado mais provável). Roteiro e textos
   do ElevenLabs em `episodios/ep02/roteiro.md`. São só 2 gerações: narrador e Dudu (a mãe aparece só como texto no chat).
 - **Resumo:** orçamento de R$ 37,50, faxina (a pizza resiste e vai para o lixo, aparece um objeto não identificado),
