@@ -103,7 +103,7 @@ Se cair muito por volta do EP. 5, dá para fechar no EP. 6 ou 7 sem parecer inte
   (voz pm_santa para o Dudu) e depois `./render_ep.sh episodios/ep02`.
 - Se CABELO vencer o EP. 1, escrever outro EP. 2 e guardar este para depois.
 
-### EP. 3: "Operação Cabelo" 🎬 animado; aguardando as vozes do ElevenLabs
+### EP. 3: "Operação Cabelo" ✅ pronto (vozes do ElevenLabs, cerca de 74 s)
 - **CABELO venceu** a votação do EP. 2 (PIADAS perdeu e volta na votação do EP. 3).
 - **Resumo:** barbeiro custa R$ 35 e o orçamento é R$ 0,50. O Dudu corta sozinho, ao vivo, com tesoura de cozinha e tutorial em 2x.
   O topete é cortado e volta. Ao tentar igualar os lados, vira um "cogumelo" (o chat dá o apelido).
