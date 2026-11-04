@@ -102,3 +102,18 @@ Se cair muito por volta do EP. 5, dá para fechar no EP. 6 ou 7 sem parecer inte
   `ext/narrador.mp3` e `ext/dudu.mp3`, rode `ferramentas/alinhar_voz.py` com `ext/narrador.txt` e `ext/dudu.txt`
   (voz pm_santa para o Dudu) e depois `./render_ep.sh episodios/ep02`.
 - Se CABELO vencer o EP. 1, escrever outro EP. 2 e guardar este para depois.
+
+### EP. 3: "Operação Cabelo" 🎬 animado; aguardando as vozes do ElevenLabs
+- **CABELO venceu** a votação do EP. 2 (PIADAS perdeu e volta na votação do EP. 3).
+- **Resumo:** barbeiro custa R$ 35 e o orçamento é R$ 0,50. O Dudu corta sozinho, ao vivo, com tesoura de cozinha e tutorial em 2x.
+  O topete é cortado e volta. Ao tentar igualar os lados, vira um "cogumelo" (o chat dá o apelido).
+  **A mãe aparece pela primeira vez** com a máquina de cortar, conserta tudo em 5 minutos e lava a fuligem do rosto dele.
+  O Dudu fica apresentável e chega a 230 espectadores. O desconhecido: "ok, agora sim. pena as piadas." Dudu: "Mas eu sou engraçado!"
+  Narrador: "Ele não é." O topete continua lá.
+- **Visual novo do Dudu (fixo daqui em diante):** cabelo curto em degradê, **sem fuligem**, e o topete rebelde continua.
+  Os estilos de cabelo estão em `hairSVG()` no `episodios/ep03/scene.js` ('messy', 'uneven', 'bowl', 'buzz').
+- **Mãe em cena:** `momParts()` / `momPose()` no `episodios/ep03/scene.js` (coque cacheado, avental "MÃE", brincos dourados).
+- **Estado no fim:** ESPECTADORES 230 · FAMA 12% · ORÇAMENTO R$ 0,50 · corte novo · rosto limpo.
+- **Votação:** **PIADAS** (aprender a ser engraçado) **ou COLLAB** (live com outro streamer).
+- Para a versão final: `ext/narrador.mp3`, `ext/dudu.mp3` e `ext/mae.mp3`, alinhar com `ferramentas/alinhar_voz.py`
+  (pm_alex, pm_santa, pf_dora) e `./render_ep.sh episodios/ep03`.
