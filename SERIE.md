@@ -117,3 +117,16 @@ Se cair muito por volta do EP. 5, dá para fechar no EP. 6 ou 7 sem parecer inte
 - **Votação:** **PIADAS** (aprender a ser engraçado) **ou COLLAB** (live com outro streamer).
 - Para a versão final: `ext/narrador.mp3`, `ext/dudu.mp3` e `ext/mae.mp3`, alinhar com `ferramentas/alinhar_voz.py`
   (pm_alex, pm_santa, pf_dora) e `./render_ep.sh episodios/ep03`.
+
+### EP. 4: "Operação Piadas" 🎬 animado; aguardando as vozes do ElevenLabs
+- **Votação do EP. 3:** TikTok (enquete, cerca de 30 votos) deu 87% PIADAS; YouTube (10 comentários) deu cerca de 8 COLLAB.
+  **Somando, PIADAS venceu (cerca de 70% × 30%).** O episódio abre mostrando o placar por plataforma (`scoreScene()`).
+  Regra combinada com o dono do canal: **somar os votos de todas as plataformas**. A opção que perde não ganha promessa,
+  só volta numa votação futura. Enquete rende mais votos que comentário.
+- **Resumo:** o curso de stand-up custa R$ 200, então ele usa o livro "1001 PIADAS DO TIO DO PAVÊ". "Vem quá!" dá em silêncio total
+  e 12 saem; a mãe é a única que ri ("Meu filho é um gênio!"); a piada do vírus faz mais 30 saírem (230 → 218 → 188).
+  Desesperado, sob o holofote, ele conta a própria história (o tombo do EP. 2 e o cogumelo do EP. 3) e o chat explode: 540.
+  Lição: a única piada que funciona é ele mesmo. O desconhecido: "essa foi boa. quase ri." "Eu sou engraçado!" "Às vezes."
+- **Gags novas:** o livro do tio do pavê e o "TSS!" depois de piada ruim.
+- **Estado no fim:** ESPECTADORES 540 · FAMA 20% · ORÇAMENTO R$ 0,50.
+- **Votação:** **COLLAB** (live com outro streamer) **ou EMPREGO** (arrumar um trampo, já que o orçamento continua em R$ 0,50).
