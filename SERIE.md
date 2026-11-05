@@ -118,7 +118,7 @@ Se cair muito por volta do EP. 5, dá para fechar no EP. 6 ou 7 sem parecer inte
 - Para a versão final: `ext/narrador.mp3`, `ext/dudu.mp3` e `ext/mae.mp3`, alinhar com `ferramentas/alinhar_voz.py`
   (pm_alex, pm_santa, pf_dora) e `./render_ep.sh episodios/ep03`.
 
-### EP. 4: "Operação Piadas" 🎬 animado; aguardando as vozes do ElevenLabs
+### EP. 4: "Operação Piadas" ✅ pronto (vozes do ElevenLabs, cerca de 67 s)
 - **Votação do EP. 3:** TikTok (enquete, cerca de 30 votos) deu 87% PIADAS; YouTube (10 comentários) deu cerca de 8 COLLAB.
   **Somando, PIADAS venceu (cerca de 70% × 30%).** O episódio abre mostrando o placar por plataforma (`scoreScene()`).
   Regra combinada com o dono do canal: **somar os votos de todas as plataformas**. A opção que perde não ganha promessa,
