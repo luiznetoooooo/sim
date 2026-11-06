@@ -50,6 +50,7 @@ Faixa de abertura do EP. 1: "MISSÃO: VIRAR STREAMER".
 - **Música:** NADA de trilha infantil. Usar base trap escura em tom menor, cerca de 11 dB abaixo da voz.
   A música **corta** nas piadas de silêncio, faz **tape stop** nas decepções e **volta com impacto** na virada.
 - **Efeitos sonoros:** o dono do canal gostou. Manter whoosh, pop, grilo, trombone triste, explosão, moedinha, scratch, entre outros.
+- **Título do YouTube:** sempre começa com o número do episódio, no formato `EP. N | ...`, com até 100 caracteres e terminando em `#shorts`.
 - **Entrega:** sempre duas versões, **com música** e **sem música**. Volume final de -14 LUFS.
 - **Final:** tela dividida vermelho/verde, "COMENTE UMA PALAVRA", duas opções com uma palavra grande cada,
   "OU" no meio, balões "...", seta para os comentários e selo **"EP. N →"**.

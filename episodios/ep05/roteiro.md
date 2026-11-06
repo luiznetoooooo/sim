@@ -76,7 +76,7 @@ Até que enfim!
 ## Post
 **Título do YouTube (até 100 caracteres):**
 ```
-Ele virou entregador de pizza e foi parar na casa do maior streamer 😱 COLLAB ou GORJETA? #shorts
+EP. 5 | Ele virou entregador e foi parar na casa do maior streamer 😱 COLLAB ou GORJETA? #shorts
 ```
 **Descrição (TikTok/Reels):**
 ```

@@ -35,7 +35,8 @@ lá estão o personagem, as regras de estilo aprovadas e o diário de episódios
 6. Rode `preview.js` em 30–40 momentos, monte uma planilha de quadros com ffmpeg e **olhe** antes de renderizar tudo.
    Problemas já encontrados: legenda cobrindo conteúdo, desfoque forte demais, objetos tapando a tela do monitor.
 7. `./render_ep.sh episodios/epNN`, confira a planilha final e o volume (-14 LUFS) e entregue as duas versões.
-8. Atualize o diário em `SERIE.md` (resumo, votação e estado de continuidade), escreva `roteiro.md` com descrição e
+8. No título do YouTube, comece **sempre** com `EP. N | ` (regra do dono do canal), com até 100 caracteres.
+9. Atualize o diário em `SERIE.md` (resumo, votação e estado de continuidade), escreva `roteiro.md` com descrição e
    hashtags, faça commit e push neste branch.
 
 ## Ambiente (Claude Code na nuvem)
