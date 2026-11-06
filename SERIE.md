@@ -131,7 +131,7 @@ Se cair muito por volta do EP. 5, dá para fechar no EP. 6 ou 7 sem parecer inte
 - **Estado no fim:** ESPECTADORES 540 · FAMA 20% · ORÇAMENTO R$ 0,50.
 - **Votação:** **COLLAB** (live com outro streamer) **ou EMPREGO** (arrumar um trampo, já que o orçamento continua em R$ 0,50).
 
-### EP. 5: "Operação Emprego" 🎬 animado; aguardando as vozes do ElevenLabs
+### EP. 5: "Operação Emprego" ✅ pronto (vozes do ElevenLabs, cerca de 58 s)
 - **EMPREGO venceu** a votação do EP. 4.
 - **Resumo:** a mãe comemora ("Até que enfim!"). O currículo dele é "streamer com 540 espectadores; habilidade: cair da cadeira ao vivo".
   Reprovado, reprovado, até ser aprovado como **entregador da Pizzaria do Seu Zé**. Ele faz live entregando de bicicleta,
