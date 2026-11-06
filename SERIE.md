@@ -130,3 +130,15 @@ Se cair muito por volta do EP. 5, dá para fechar no EP. 6 ou 7 sem parecer inte
 - **Gags novas:** o livro do tio do pavê e o "TSS!" depois de piada ruim.
 - **Estado no fim:** ESPECTADORES 540 · FAMA 20% · ORÇAMENTO R$ 0,50.
 - **Votação:** **COLLAB** (live com outro streamer) **ou EMPREGO** (arrumar um trampo, já que o orçamento continua em R$ 0,50).
+
+### EP. 5: "Operação Emprego" 🎬 animado; aguardando as vozes do ElevenLabs
+- **EMPREGO venceu** a votação do EP. 4.
+- **Resumo:** a mãe comemora ("Até que enfim!"). O currículo dele é "streamer com 540 espectadores; habilidade: cair da cadeira ao vivo".
+  Reprovado, reprovado, até ser aprovado como **entregador da Pizzaria do Seu Zé**. Ele faz live entregando de bicicleta,
+  um cachorro persegue ele achando que ele é a pizza e a live sobe para 812. "40 minutos depois" ele chega:
+  a entrega era na mansão do **Brunão, o maior streamer do bairro**, que reconhece o Dudu ("Você é o cara que caiu da cadeira!")
+  e oferece uma live juntos ou R$ 50 de gorjeta.
+- **Novidades fixas:** boné vermelho da pizzaria (`capSVG()`, desenhado via `headExtra` no `duduParts`), cenário de rua
+  (`streetScene()`), mansão (`doorScene()`) e o **Brunão** (`brunaoParts()`), que fala só por balões para não gastar outra voz.
+- **Estado no fim:** ESPECTADORES 812 · FAMA 25% · ORÇAMENTO R$ 7,50 · emprego de entregador.
+- **Votação:** **COLLAB** (live com o Brunão) **ou GORJETA** (pegar os R$ 50).
