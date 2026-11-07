@@ -143,3 +143,14 @@ Se cair muito por volta do EP. 5, dá para fechar no EP. 6 ou 7 sem parecer inte
   (`streetScene()`), mansão (`doorScene()`) e o **Brunão** (`brunaoParts()`), que fala só por balões para não gastar outra voz.
 - **Estado no fim:** ESPECTADORES 812 · FAMA 25% · ORÇAMENTO R$ 7,50 · emprego de entregador.
 - **Votação:** **COLLAB** (live com o Brunão) **ou GORJETA** (pegar os R$ 50).
+
+### EP. 6: "Operação Collab" 🎬 animado; aguardando as vozes do ElevenLabs
+- **COLLAB venceu** a votação do EP. 5.
+- **Resumo:** a mãe não acredita ("Recusou cinquenta reais?!"). Estúdio do Brunão (três monitores, microfone de R$ 2 mil,
+  geladeira de energético). A live conjunta tem 10.000 espectadores e o Dudu trava ("CARREGANDO..."). Aparece o **primeiro hater
+  de verdade, `toxico_br`** ("quem é esse entregador?"). O Brunão salva ("conta a história da cadeira!"); o Dudu conta,
+  se encosta no trono de R$ 5 mil e **cai de novo** (replay em câmera lenta). "Tô bem! Tô bem!" O clipe passa de 1 milhão,
+  ele ganha 3 mil seguidores numa noite, e o hater volta: "ele cai de propósito. é tudo fake."
+- **Novidades:** `studioScene()` (estúdio do Brunão), `chatUI()` com o hater, contador de SEGUIDORES.
+- **Estado no fim:** SEGUIDORES 3.812 · FAMA 40% · ORÇAMENTO R$ 7,50 · hater `toxico_br` ativo · fim da fase de "evolução".
+- **Votação:** **RESPONDER** o hater **ou IGNORAR** (abre a fase de "queda", EP. 7–8).
