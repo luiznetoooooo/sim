@@ -90,15 +90,18 @@ def dtw_t(sample):
     idx = np.where(wp[:, 0] >= sample // HOP)[0]
     return wp[idx[0], 1] * HOP / SR if len(idx) else dur
 
-fine = silences(-30, .05)
+fine = silences(-38, .15) or silences(-30, .05)
+# o acústico manda: cada fala começa no fim da pausa real mais próxima do ponto do DTW
+prev_end = seg[0][0]
 for i in range(1, n):
     td = dtw_t(b0[i])
-    if abs(seg[i][0] - td) > .3:
-        cand = [s for s in fine if abs(s[1] - td) < .5 and seg[i - 1][0] < s[0] and s[1] < seg[i][1]]
-        if cand:
-            a, b = min(cand, key=lambda s: abs(s[1] - td))
-            print(f"  ajuste: fala {i + 1} começa em {b:.2f}s (pausas diziam {seg[i][0]:.2f}s, acústico {td:.2f}s)")
-            seg[i - 1][1], seg[i][0] = a, b
+    cand = [x for x in fine if abs(x[1] - td) < .5 and x[0] > prev_end + .2]
+    if cand:
+        a_, b_ = min(cand, key=lambda x: abs(x[1] - td))
+        if abs(seg[i][0] - b_) > .05:
+            print(f"  ajuste: fala {i + 1} começa em {b_:.2f}s (pausas diziam {seg[i][0]:.2f}s, acústico {td:.2f}s)")
+        seg[i - 1][1], seg[i][0] = a_, b_
+    prev_end = seg[i][0]
 
 for (s, e), l in zip(seg, lines):
     print(f"{s:6.2f}-{e:6.2f}  {l}")

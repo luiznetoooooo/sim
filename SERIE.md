@@ -144,7 +144,7 @@ Se cair muito por volta do EP. 5, dá para fechar no EP. 6 ou 7 sem parecer inte
 - **Estado no fim:** ESPECTADORES 812 · FAMA 25% · ORÇAMENTO R$ 7,50 · emprego de entregador.
 - **Votação:** **COLLAB** (live com o Brunão) **ou GORJETA** (pegar os R$ 50).
 
-### EP. 6: "Operação Collab" 🎬 animado; aguardando as vozes do ElevenLabs
+### EP. 6: "Operação Collab" ✅ pronto (vozes do ElevenLabs, cerca de 61 s)
 - **COLLAB venceu** a votação do EP. 5.
 - **Resumo:** a mãe não acredita ("Recusou cinquenta reais?!"). Estúdio do Brunão (três monitores, microfone de R$ 2 mil,
   geladeira de energético). A live conjunta tem 10.000 espectadores e o Dudu trava ("CARREGANDO..."). Aparece o **primeiro hater
