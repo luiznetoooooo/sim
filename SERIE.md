@@ -154,3 +154,14 @@ Se cair muito por volta do EP. 5, dá para fechar no EP. 6 ou 7 sem parecer inte
 - **Novidades:** `studioScene()` (estúdio do Brunão), `chatUI()` com o hater, contador de SEGUIDORES.
 - **Estado no fim:** SEGUIDORES 3.812 · FAMA 40% · ORÇAMENTO R$ 7,50 · hater `toxico_br` ativo · fim da fase de "evolução".
 - **Votação:** **RESPONDER** o hater **ou IGNORAR** (abre a fase de "queda", EP. 7–8).
+
+### EP. 7: "Operação Ignorar" 🎬 animado; aguardando as vozes do ElevenLabs. Início da fase de QUEDA.
+- **Votação do EP. 6:** empate nos comentários; um comentário de IGNORAR tinha 5 curtidas, então **IGNORAR venceu**.
+  Regra nova: **curtidas em comentário de voto contam como votos**.
+- **Resumo:** o Dudu ignora 1, 10, 100 mensagens do `toxico_br` ("Eu tô ignorando. Tô ignorando total."). O hater faz um vídeo,
+  "DUDU É FAKE: AS PROVAS" (câmera lenta, setas vermelhas, música de suspense), que passa o tombo em views (1,4 mi × 1 mi).
+  800 deixam de seguir. O Brunão some dos comentários. "Mas eu não fiz nada!" Quarto escuro, chuva, a mãe:
+  "Filho... desliga isso e vem jantar." "Pela primeira vez, o Dudu pensou em desistir."
+- **HUD:** a caixa ESPECTADORES virou **SEGUIDORES**. A FAMA sobe (40 → 52%) enquanto os seguidores caem: a fama vem pelo motivo errado.
+- **Estado no fim:** SEGUIDORES 3.012 · FAMA 52% · ORÇAMENTO R$ 7,50 · Brunão ausente · Dudu no fundo do poço emocional.
+- **Votação:** **PROVAR** (mostrar que as quedas são reais) **ou SUMIR** (dar um tempo da internet). O EP. 8 fecha a queda; o EP. 9 é a volta.
